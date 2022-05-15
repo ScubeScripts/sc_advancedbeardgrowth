@@ -1,3 +1,3 @@
 Config = {}
 
-Config.Delay = 10 * 60000 ---Warten in Sekunden --Standard: 10 Minuten (60000 = 1 Minute)
+Config.Delay = 10 * 60000 ---Wait in seconds --Standard: 10 minutes (60000 = 1 minute)
